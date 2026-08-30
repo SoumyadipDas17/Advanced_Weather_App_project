@@ -12,7 +12,7 @@ You can see a number is present before each option. The user has to enter the nu
 
 Now let's understand the functionalities of the four options of the MAIN MENU.
 
-##CURRENT WEATHER REPORT
+**<h2>CURRENT WEATHER REPORT</h2>**
 
 Enter the integer 1 in order to use this option. Then you have to enter the name of the city whose current weather conditions you want to know. The temperature (°C), humidity(%), weather description and wind speed(in kilometer per hour) will be displayed
 <img width="1063" height="350" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/8e5d7bbc-2451-4cbc-b393-cc12ddc9f895" />
@@ -25,7 +25,7 @@ A message will appaer  at the bottom. Here if you Enter 'y' or 'Y', the weather 
  <img width="1130" height="941" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/fad21388-e751-4812-97ee-d7e6eb7b42b3" />
 
 
-##SEARCH HISTORY
+**<h2>SEARCH HISTORY</h2>**
 
 Enter the integer 2 in order to use the SEARCH HISTORY of the MAIN MENU. You will get the entire search historhy containing the searched locations in newest to oldest order i.e. the city which you have searched at first will appear at the bottom and the city which you have searched at last will appear in the top.
 <img width="1101" height="931" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/b0e5fb41-9228-485e-971b-447045c54346" />
@@ -46,7 +46,7 @@ You can see that KOLKATA is in the top having number 1 before it. This is becaus
 Now, if we don't want to search anything from our search history then we will enter 0. Again we will have our MAIN MENU.
 <img width="1076" height="455" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/411a1859-171a-4751-8323-c7ceef9de98c" />
 
-##DELETE SEARCH HISTORY
+**<h2>DELETE SEARCH HISTORY</h2>**
 
 Let's search the current weather conditions of few more cities in order to understand this option clearly.
 <img width="1062" height="659" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/cfff8ad9-e6fd-4d1d-937f-3d6a25d00a6d" />
@@ -70,9 +70,10 @@ Now let's see the search history.
 <img width="1072" height="501" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/3451d45c-c298-4fe6-abdf-7628edd00bfb" />
 As you can see there are no names of any cities in the search history. This is because the entire search history has been deleted.
 
-##EXIT
+**<h2>EXIT</h2>**
+To use EXIT option of the MAIN MENU you have to enter 4. As mentioned earlier, on using this option, you will break the infinite loop that is running in the program and you will exit from the program.
 
-To use EXIT option of the MAIN MENU you have to enter 4. On using this option, you will break the infinite loop that is running in the program and you will exit from the program.
+**<h3>Important thing to be kept in mind :-</h3>**
 
 In case if you enter any integer other than 1 or 2 or 3 or 4, a message "INVALID CHOICE" will be displayed.
 <img width="1064" height="385" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/f6badad1-c0b0-47bc-a580-dad66d33fed5" />
